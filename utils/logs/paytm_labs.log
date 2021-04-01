@@ -1,0 +1,14 @@
+2021-03-31 16:49:19,565::MainProcess::__main__::INFO::<module>::Default parallelism: 8
+2021-03-31 16:49:19,566::MainProcess::__main__::INFO::read_data_regex::Start parsing the log file...
+2021-03-31 16:50:24,063::MainProcess::__main__::INFO::read_data_regex::Data: 1158338, 16
+2021-03-31 16:50:24,063::MainProcess::__main__::INFO::transform_data::Start transforming...
+2021-03-31 16:50:24,095::MainProcess::__main__::INFO::transform_data::Number of partitions in transform: 40
+2021-03-31 16:53:31,900::MainProcess::__main__::INFO::<module>::Total duration: 0:04:17.648567
+2021-03-31 16:54:22,323::MainProcess::__main__::INFO::<module>::Default parallelism: 8
+2021-03-31 16:54:22,324::MainProcess::__main__::INFO::read_data_regex::Start parsing the log file...
+2021-03-31 16:55:30,069::MainProcess::__main__::INFO::read_data_regex::Data: 1158338, 16
+2021-03-31 16:55:30,069::MainProcess::__main__::INFO::transform_data::Start transforming...
+2021-03-31 16:55:30,096::MainProcess::__main__::INFO::transform_data::Number of partitions in transform: 40
+2021-03-31 17:00:03,355::MainProcess::__main__::INFO::transform_data::Data: 1158338, 45
+2021-03-31 17:00:22,829::MainProcess::__main__::INFO::main::Overall Avg Session duration: Row(avg_session_duration=948.25) seconds.
+2021-03-31 17:00:47,539::MainProcess::__main__::INFO::<module>::Total duration: 0:06:30.061679
